@@ -1,0 +1,5 @@
+{
+  "name": "Bangladesh Passport Photo Creator",
+  "description": "An AI-powered tool to automatically create official Bangladesh-sized (4.5cm x 3.5cm) passport photos from any picture. Features include background removal, color adjustment, and precise cropping controls.",
+  "requestFramePermissions": []
+}
